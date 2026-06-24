@@ -43,14 +43,14 @@ Completed exercises related to:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/python-practice.git
+git clone https://github.com/arslan-rock/python-practice.git
 cd python-practice
 ```
 
 ## Run a Program
 
 ```bash
-python 01_Operators/age_in_seconds.py
+python topic_wise_ques/operators.py
 ```
 
 ## Technologies Used
